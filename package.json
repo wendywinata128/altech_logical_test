@@ -4,7 +4,7 @@
   "description": "",
   "main": "logic_test.js",
   "scripts": {
-    "start": "node logic_test.js",
+    "start": "node src/logic.js",
     "test": "jest"
   },
   "author": "",
