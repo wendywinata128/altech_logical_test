@@ -1,0 +1,15 @@
+{
+  "name": "logic_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logic_test.js",
+  "scripts": {
+    "start": "node logic_test.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
